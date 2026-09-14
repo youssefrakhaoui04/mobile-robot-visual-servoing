@@ -1,0 +1,3 @@
+numpy
+opencv-python
+# RPi.GPIO et picamera2 s'installent via l'environnement Raspberry Pi OS
